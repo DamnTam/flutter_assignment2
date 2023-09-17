@@ -8,7 +8,6 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:![eb2877e6-4c8d-4cee-8f99-a83aaea8ab47](https://github.com/DamnTam/flutter_assignment2/assets/75781775/bf5a911a-f0dd-472d-8a15-d56fe25a1250)
 
-![785c0436-d869-4ea5-b7d6-934a799e2dc6](https://github.com/DamnTam/flutter_assignment2/assets/75781775/025b2718-ee23-4c21-80ec-e142433154c7)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
