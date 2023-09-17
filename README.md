@@ -7,7 +7,6 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-![87c219d6-06ba-4f76-8c3c-dd2ee76bc477](https://github.com/DamnTam/flutter_assignment2/assets/75781775/0027ba05-5f90-4341-aeed-d9a4834d9c6b)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
