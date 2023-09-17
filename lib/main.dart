@@ -107,7 +107,7 @@ class _HomePageState extends State<HomePage> {
               ),
              ListView(
                shrinkWrap: true,
-               children:  [
+               children: const   [
                  ListTile(
                    leading: CircleAvatar(
                      maxRadius: 25,
